@@ -1,2 +1,2 @@
 # transfer-assignment
-Remote Repository to complete the transfere exercise of the "Advanced Git Workshop".
+Remote Repository to complete the transfer exercise of the "Advanced Git Workshop".
